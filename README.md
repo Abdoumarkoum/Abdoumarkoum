@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Abdoumarkoum
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Abdoumarkoum
+Full-Stack Developer
 
-<!---
-Abdoumarkoum/Abdoumarkoum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- Self-taught full-stack developer  
+- Learning and building for the web 
+
+## Tech Stack
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,php,figma,vscode,git,github)](https://skillicons.dev)
+
+## Contact
+📧 abdoumarkoum9@gmail.com
