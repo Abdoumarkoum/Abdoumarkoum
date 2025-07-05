@@ -6,7 +6,7 @@ Full-Stack Developer
 - Learning and building for the web 
 
 ## Tech Stack
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,php,figma,vscode,git,github)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,php,figma,vscode,git,github,nodejs)](https://skillicons.dev)
 
 ## Contact
 📧 abdoumarkoum9@gmail.com
