@@ -1,5 +1,10 @@
 # Abdoumarkoum
-Full-Stack Developer
+👋 Salut, je suis Abdou Markoum
+
+💻 Développeur Full Stack
+🚀 Passionné par Laravel, Flutter et React
+📍 Algérie
+🎯 Objectif : créer des applications modernes et performantes.
 
 ## About Me
 - Self-taught full-stack developer  
